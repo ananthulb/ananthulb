@@ -30,9 +30,9 @@
 
 <br />
 
-### GitHub Stats:
+<!-- ### GitHub Stats:
 
- <img align="left" alt="ananthulb's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ananthulb&show_icons=true&hide_border=true" />
+ <img align="left" alt="ananthulb's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ananthulb&show_icons=true&hide_border=true" /> -->
 
 [instagram]: https://instagram.com/ananthulb
 [linkedin]: https://linkedin.com/in/ananthulb
