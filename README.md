@@ -2,7 +2,7 @@
 
 - 🔭 I started learning programming after my highschool
 - 🌱 I’m currently working as a Fullstack Developer 🤣
-- 👯 I like general programming and problem solving
+- :v: like general programming and problem solving
 
 ### Connect with me:
 
